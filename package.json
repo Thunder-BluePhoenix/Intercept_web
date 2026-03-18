@@ -1,0 +1,14 @@
+{
+  "name": "intercept_web",
+  "version": "1.0.0",
+  "description": "Intercept Web Backend and Frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.3",
+    "ws": "^8.16.0"
+  }
+}

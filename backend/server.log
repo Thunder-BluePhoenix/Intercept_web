@@ -1,0 +1,111 @@
+Server is running heavily on http://[::]:3000 (IPv6 enabled)
+[+] Client connected: 77MdSIFDJOFVIR38AAAC
+[-] Client disconnected: 77MdSIFDJOFVIR38AAAC
+[+] Client connected: ooHCQPf1KhgYzPWlAAAF
+Server is running heavily on http://[::]:3000 (IPv6 enabled)
+[+] Client connected: PcP_lBU6Ob7IppwFAAAB
+Server is running heavily on http://[::]:3000 (IPv6 enabled)
+[+] Client connected: la-X5HZjfU4j7oNmAAAB
+[+] Client connected: YXME0BBIidnGk3rKAAAE
+[Intercept] Server listening on http://[::]:3000 (IPv6 enabled)
+[Intercept] Unified Frontend is being served statically on the same port.
+[+] Client connected: DKjRvl-Z2FplkKhNAAAB
+[+] Client connected: GGKYGf3zv3AsmZosAAAD
+[Intercept] Server listening on http://[::]:3000 (IPv6 enabled)
+[Intercept] Unified Frontend is being served statically on the same port.
+[+] Client connected: svjRnn7hgqOWS9QVAAAB
+[+] Client connected: QLpkcvggOIi_vDH6AAAD
+[-] Client disconnected: svjRnn7hgqOWS9QVAAAB
+[-] Client disconnected: QLpkcvggOIi_vDH6AAAD
+[Intercept] Server listening on http://[::]:3000 (IPv6 enabled)
+[Intercept] Unified Frontend is being served statically on the same port.
+[Intercept] Server listening on http://[::]:3000 (IPv6 enabled)
+[Intercept] Unified Frontend is being served statically on the same port.
+[+] Client connected: 8bpv2YB3inZjo-DQAAAB
+[+] Client connected: wl0XCnlFuXYUDSlqAAAD
+[-] Client disconnected: wl0XCnlFuXYUDSlqAAAD
+[SSL] Generating new self-signed certificate...
+[SSL] Generating new self-signed certificate...
+[SSL] Generating new self-signed certificate (this takes a moment)...
+[SSL] Certificate saved to backend/certs/
+
+[Intercept] HTTPS server on https://[::]:3443
+[Intercept] Frontend served at same address. Self-signed cert auto-generated.
+[SSL] Loaded existing self-signed certificate.
+
+[Intercept] HTTPS server on https://[::]:3443
+[Intercept] Frontend served at same address. Self-signed cert auto-generated.
+[+] Client connected: 5vX3J3YkrQwmmLs-AAAB
+[>>] Recording started: 5vX3J3YkrQwmmLs-AAAB
+[||] Recording stopped: 5vX3J3YkrQwmmLs-AAAB
+[>>] Recording started: 5vX3J3YkrQwmmLs-AAAB
+[||] Recording stopped: 5vX3J3YkrQwmmLs-AAAB
+[+] Client connected: jFqXvxEJksVqkukcAAAD
+[>>] Recording started: jFqXvxEJksVqkukcAAAD
+[||] Recording stopped: jFqXvxEJksVqkukcAAAD
+[-] Client disconnected: jFqXvxEJksVqkukcAAAD
+[SSL] Loaded existing self-signed certificate.
+
+[Intercept] HTTPS server on https://[::]:3443
+[Intercept] Frontend served at same address. Self-signed cert auto-generated.
+[+] Client connected: PJypEpWMnYkLLNQfAAAB
+[SSL] Loaded existing self-signed certificate.
+
+[Intercept] HTTPS server on https://[::]:3443
+[Intercept] Frontend served at same address. Self-signed cert auto-generated.
+[+] Client connected: H2blDL99ZWW8BbseAAAB
+[+] Client connected: AGuKuc_oFRjo8f0rAAAD
+[+] Client connected: 64T8KdvaTjfZQTwlAAAF
+[>>] Recording started: AGuKuc_oFRjo8f0rAAAD
+[||] Recording stopped: AGuKuc_oFRjo8f0rAAAD
+[-] Client disconnected: 64T8KdvaTjfZQTwlAAAF
+[-] Client disconnected: AGuKuc_oFRjo8f0rAAAD
+[+] Client connected: DKe3TDmMeP8XgL3XAAAH
+[-] Client disconnected: DKe3TDmMeP8XgL3XAAAH
+[+] Client connected: k68k29bAPSG7hiAhAAAJ
+[>>] Recording started: k68k29bAPSG7hiAhAAAJ
+[||] Recording stopped: k68k29bAPSG7hiAhAAAJ
+[-] Client disconnected: k68k29bAPSG7hiAhAAAJ
+[SSL] Loaded existing self-signed certificate.
+
+[Intercept] HTTPS server on https://[::]:3443
+[Intercept] Frontend served at same address. Self-signed cert auto-generated.
+[+] Client connected: synTFBvMXq4vC3ERAAAB
+[SSL] Loaded existing self-signed certificate.
+
+[Intercept] HTTPS server on https://[::]:3443
+[Intercept] Frontend served at same address. Self-signed cert auto-generated.
+[+] Client connected: ohxqnVYSYkgxWEELAAAB
+[+] Client connected: 0niGtkex0IvyFAyYAAAD
+[-] Client disconnected: 0niGtkex0IvyFAyYAAAD
+[+] Client connected: 8udB5AeqpIIwj_V2AAAF
+[>>] Recording started: 8udB5AeqpIIwj_V2AAAF
+[||] Recording stopped: 8udB5AeqpIIwj_V2AAAF
+[v] Saved: F:\proj_guides\Intercept_web\backend\recordings\Intercept_2026-03-18T12-18-09-060Z.mp3
+[>>] Recording started: 8udB5AeqpIIwj_V2AAAF
+[||] Recording stopped: 8udB5AeqpIIwj_V2AAAF
+[v] Saved: F:\proj_guides\Intercept_web\backend\recordings\Intercept_2026-03-18T12-18-39-977Z.mp3
+[-] Client disconnected: 8udB5AeqpIIwj_V2AAAF
+[+] Client connected: 4TMMyIswWm_yz-S_AAAH
+[+] Client connected: UT1EWqxcKw8o9JnLAAAJ
+[>>] Recording started: 4TMMyIswWm_yz-S_AAAH
+[||] Recording stopped: 4TMMyIswWm_yz-S_AAAH
+[v] Saved: F:\proj_guides\Intercept_web\backend\recordings\Intercept_2026-03-18T12-30-13-916Z.mp3
+[-] Client disconnected: UT1EWqxcKw8o9JnLAAAJ
+[-] Client disconnected: 4TMMyIswWm_yz-S_AAAH
+[SSL] Loaded existing self-signed certificate.
+
+[Intercept] HTTPS server on https://[::]:3443
+[Intercept] Frontend served at same address. Self-signed cert auto-generated.
+[+] Client connected: IIZ8n10B9u3ia6CTAAAB
+[+] Client connected: 7O7AepVIGa7n68V6AAAD
+[-] Client disconnected: 7O7AepVIGa7n68V6AAAD
+[+] Client connected: ZR2_P_zJuClLk_5EAAAF
+[>>] Recording started: ZR2_P_zJuClLk_5EAAAF
+[||] Recording stopped: ZR2_P_zJuClLk_5EAAAF
+[v] Saved: F:\proj_guides\Intercept_web\backend\recordings\Intercept_2026-03-18T12-41-39-039Z.mp3
+[-] Client disconnected: ZR2_P_zJuClLk_5EAAAF
+[+] Client connected: vGJKbMjE7cUNVOUKAAAH
+[-] Client disconnected: vGJKbMjE7cUNVOUKAAAH
+[+] Client connected: m5vIX1hoBqOXCXRtAAAJ
+[-] Client disconnected: m5vIX1hoBqOXCXRtAAAJ
